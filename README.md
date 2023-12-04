@@ -35,5 +35,6 @@ pip install streamlit
 ```bash
 streamlit run ct_scan_covid.py
 ```
+### For any Queries Contact me Mail : <a>narendersoppoju0403@gmailcom</a>
 
 
