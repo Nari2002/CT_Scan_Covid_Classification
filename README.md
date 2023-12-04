@@ -1,7 +1,7 @@
 # Capstone_Project_By_Letsupgrade
 ## CT Scan Image Classification Project
 
-<img src="https://github.com/Nari2002/CT_Scan_Covid_Classification/assets/95279852/39f84777-d708-46ff-b3f7-0aad3e2b5fb3>
+<img src="https://github.com/Nari2002/CT_Scan_Covid_Classification/assets/95279852/39f84777-d708-46ff-b3f7-0aad3e2b5fb3">
 
 
 ## Introduction
@@ -14,7 +14,7 @@ Note: The Complete Project is documented ,please check above files
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ct-scan-image-classification.git
+git clone https://github.com/Nari2002/CT_Scan_Covid_Classification.git
 
 ```
 ### 2. Run The Jupyter Notebook File
