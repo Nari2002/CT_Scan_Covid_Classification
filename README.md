@@ -10,5 +10,5 @@ This project aims to develop an artificial intelligence model for identifying SA
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ct-scan-image-classification.git
-cd ct-scan-image-classification
+[git clone https://github.com/your-username/ct-scan-image-classification.git
+cd ct-scan-image-classification](https://github.com/Nari2002/CT_Scan_Covid_Classification.git)https://github.com/Nari2002/CT_Scan_Covid_Classification.git
